@@ -13,9 +13,9 @@
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=jetbrains)
-  ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=php)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=go)
+  ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=csharp)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=jetbrains)
 
 
 ## Contribuited Projects
