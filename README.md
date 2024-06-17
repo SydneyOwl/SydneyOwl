@@ -13,4 +13,4 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=go)
   ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=csharp)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=jetbrains)
+  ![Rust](https://img.shields.io/badge/RustRover-orange?style=flat-square&logo=rust)
