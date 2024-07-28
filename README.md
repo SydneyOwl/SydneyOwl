@@ -14,3 +14,5 @@
   ![Goland](https://img.shields.io/badge/-Goland-purple?style=flat-square&logo=go)
   ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=csharp)
   ![Rust](https://img.shields.io/badge/RustRover-orange?style=flat-square&logo=rust)
+
+![](https://raw.githubusercontent.com/sydneyowl/sydneyowl/output/github-contribution-grid-snake.svg)
