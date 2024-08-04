@@ -15,4 +15,17 @@
   ![Rider](https://img.shields.io/badge/Rider-black?style=flat-square&logo=csharp)
   ![Rust](https://img.shields.io/badge/RustRover-orange?style=flat-square&logo=rust)
 
-![](https://raw.githubusercontent.com/sydneyowl/sydneyowl/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sydneyowl/sydneyowl/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sydneyowl/sydneyowl/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sydneyowl/sydneyowl/output/github-contribution-grid-snake.svg"
+  />
+</picture>
