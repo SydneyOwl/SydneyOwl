@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-[![sydneyowl's github stats](https://github-readme-stats.vercel.app/api?username=sydneyowl&show_icons=true&theme=)](https://github.com/sydneyowl)
+[![sydneyowl's github stats](https://github-readme-stats.vercel.app/api?username=sydneyowl)](https://github.com/sydneyowl)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=sydneyowl&layout=compact)
 
 <div align="left">
